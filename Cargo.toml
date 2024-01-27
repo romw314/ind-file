@@ -1,9 +1,10 @@
 [package]
-name = "ind-file"
+name = "indicatif_file"
 version = "0.1.0"
 edition = "2021"
 license = "Unlicense"
 description = "Use indicatif for writing files."
+repository = "https://github.com/romw314/ind-file"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
